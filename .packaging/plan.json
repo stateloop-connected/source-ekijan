@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "sakots/Ekijan",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "e40782e7aa57e2f71051dc0914f8c777ffbc716f"
+}
